@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'testzumo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_22D6E5C121AE42349C453C343CB0B211 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E78C6EA83EEF4C04B9B23DBCB1FC8665 }}
           package: .
